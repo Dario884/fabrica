@@ -1,0 +1,1 @@
+web: gunicorn analise-clean-fabrica:server
